@@ -1,5 +1,6 @@
 <p align="center">
 <img src="/Logo/text256.png" alt="Radarr">
+  
 </p>
 
 Radarr is an __independent__ fork of [Sonarr](https://github.com/Sonarr/Sonarr) reworked for automatically downloading movies via Usenet and BitTorrent.
